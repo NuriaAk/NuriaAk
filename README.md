@@ -5,7 +5,7 @@ I build ML pipelines, backend APIs, data products, and RAG-based retrieval syste
 Background in applied analytics (MSc) + hands-on engineering across data, ML, and backend.
 I ensure every product I build is technically solid, user-centric, and delivers real business value.
 
-🔹 Munich / EU Work Permit / Remote  
+🔹 Munich / EU Work Permit / Remote-ready  
 🔹 ML Engineering • Data Science • Python Backend  
 🔹 English · German · Russian
 
