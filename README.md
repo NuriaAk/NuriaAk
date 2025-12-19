@@ -24,11 +24,9 @@ I ensure every product I build is technically solid, user-centric, and delivers 
 
 ### 🔹 **1.EasyMatch – Circular Ecosystem Matching Platform**  
 
-A no-code/low-code matchmaking platform designed to connect start-ups with corporate partners in the circular economy. The system implements a structured intake, data normalization, and role-based access to enable scalable partnership discovery.
+A low-code matchmaking platform designed to connect start-ups with corporate partners in the circular economy. The system implements a structured intake, data normalization, and role-based access to enable scalable partnership discovery.
 Supports three distinct user roles: start-ups, corporate partners, and internal company departments, each with tailored data views and workflows.
-
 **Stack:** Softr (frontend & role-based UI), Airtable (relational database & logic), Typeform (data ingestion & onboarding)  
-
 ➡️ https://easymatch.circular-republic.org
 
 ### 🔹 **2.Flask Deployment + Docker — “ML Deployment with Flask”**  
