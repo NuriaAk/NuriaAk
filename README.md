@@ -33,15 +33,15 @@ REST API using Flask, managed dependencies with Pipenv, containerized with Docke
 **Stack:** Flask, Pipenv, Docker  
 ➡️ https://github.com/NuriaAk/machine_learning_project/tree/main/05-deployment/flask_pipenv_docker_aws
 
-### 🔹 **3. FastAPI + MongoDB Backend — “The Lyric Book”**    
-FastAPI backend with CRUD operations and data models.    
-**Stack:** FastAPI, MongoDB, Pydantic    
-➡️ https://github.com/NuriaAk/FastAPI_Mongo_The_Lyric_Book
-
-### 🔹 **4. Car Accidents Forecasting (ML Deployment with FastAPI)**    
+### 🔹 **3. Car Accidents Forecasting (ML Deployment with FastAPI)**    
 Time-series & ML forecasting pipeline with feature engineering and model benchmarking.  
 **Stack:** pandas, scikit-learn, etna, prophet (for time series forecasting), FastAPI, Streamlit, pytest  
 ➡️ https://github.com/NuriaAk/Car_accidents_forecast
+
+### 🔹 **4. FastAPI + MongoDB Backend — “The Lyric Book”**    
+FastAPI backend with CRUD operations and data models.    
+**Stack:** FastAPI, MongoDB, Pydantic    
+➡️ https://github.com/NuriaAk/FastAPI_Mongo_The_Lyric_Book
 
 ### 🔹 **5. Churn Prediction Web App (ML + Streamlit)**    
 End-to-end ML pipeline + web UI for churn prediction.  
