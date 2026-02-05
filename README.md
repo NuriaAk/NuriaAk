@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nuria
 
-**AI / ML Engineer with Python backend skills (FastAPI) and consultancy experience**.  
+**AI / ML Engineer with Python backend skills (FastAPI) and experience in consulting**.  
 I build ML pipelines, backend APIs, data products, and RAG-based retrieval systems.  
 Background in applied analytics (MSc) + hands-on engineering across data, ML, and backend.
 I ensure every product I build is technically solid, user-centric, and delivers real business value.
