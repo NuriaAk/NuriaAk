@@ -13,10 +13,11 @@ I ensure every product I build is technically solid, user-centric, and delivers 
 
 ## 🧠 Core Focus Areas
 - Machine Learning: feature engineering, model training, evaluation, deployment
-- NLP & RAG: chunking, embeddings, retrieval tuning, hallucination mitigation
+- RAG: chunking, embeddings, retrieval tuning, hallucination mitigation
 - Backend: FastAPI, Pydantic, PostgreSQL, MongoDB, REST APIs
 - Data Engineering: preprocessing, pipelines, data validation, automation
 - MLOps (intro): reproducibility, metadata, model/version control
+- Consultations: data & tech maturity accessment, data strategy
 
 ---
 
